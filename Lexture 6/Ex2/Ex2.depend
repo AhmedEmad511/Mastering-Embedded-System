@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667244671 source:c:\users\compuland\desktop\code\mastering-embedded-system\lexture 6\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+
